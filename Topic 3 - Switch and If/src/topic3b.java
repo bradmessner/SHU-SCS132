@@ -18,6 +18,7 @@ public class topic3b {
 		
 		// Declare variables
 		int choice;
+		int number1;
 		
 		// Display menu and get user input
 		System.out.println("Main Menu");
@@ -29,6 +30,8 @@ public class topic3b {
 		System.out.print("Please make a choice (1-4): ");
 		choice = keyboard.nextInt();
 		
+		
+
 		// Note, if you wanted to input a char.  Char's a bit different.
 		// char choice;
 		// choice = keyboard.next().charAt(0);
@@ -52,10 +55,12 @@ public class topic3b {
 			System.out.println("You made an invalid choice.  Sorry. :-/");
 			// Notice no break is needed!	
 		} 
-		
+				
 		// Close the keyboard
 		keyboard.close();
-
+		
+		
+		
 	}
 
 }
