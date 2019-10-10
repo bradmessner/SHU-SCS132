@@ -31,18 +31,6 @@ public class homework1 {
 
 		
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	}
 
 }
