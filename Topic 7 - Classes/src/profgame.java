@@ -14,6 +14,7 @@ public class profgame {
 		// Initialize Keyboard, Random Number Gen, and Variables
 		Scanner keyboard = new Scanner(System.in);
 		Random randomNumber = new Random();
+
 		int randomToss = 0;
 		int menuChoice = 0;
 		
@@ -22,6 +23,7 @@ public class profgame {
 		// Professor profTwo = new Professor();
 		Professor profOne = new Professor();
 
+		
 
 		
 		//Display menu and execute class methods
